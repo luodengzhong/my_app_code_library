@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyAndroidExtend</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="common_adapter">通用ListView适配器</string>
+    <string name="refresh">刷新</string>
+    
+
+</resources>
